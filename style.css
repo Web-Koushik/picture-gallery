@@ -1,0 +1,29 @@
+
+img:hover{
+    opacity: 0.5;
+}
+
+#maindiv{
+    border-color: black;
+    border-width: 1px ;
+    border: solid ;
+    padding: 1px;
+    margin: 5px;       
+}
+
+.heading{
+    display: block; 
+    text-align: center;
+}
+
+.div1{
+    padding: 5px;
+    text-align: center;
+}
+
+.picll{ 
+    width: 200px;
+    height: 260px;
+    border-radius: 30px;
+    width: 500px;
+}
